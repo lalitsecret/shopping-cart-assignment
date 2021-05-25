@@ -1,0 +1,40 @@
+.left
+{
+	width: 20%;
+}
+
+.left p
+{
+	margin:10px;
+	padding:10px;
+	background: black;
+	color:white;
+	border-radius: 100px;
+}
+.left p  span
+{
+	float: right;
+}
+
+
+
+.products
+{
+	height: 70vh;
+	overflow:auto;
+}
+
+.item
+{
+	width: 15%;
+	padding: 1%;
+	margin:1%;
+	display: inline-table;
+	background: white;
+	position: relative;
+}
+
+img
+{
+	width: 100%;
+}

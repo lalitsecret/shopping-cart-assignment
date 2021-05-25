@@ -1,0 +1,59 @@
+body
+{
+  background: slateblue;
+  margin:0;
+  font-family: verdana;
+}
+
+input,button,a
+{
+  padding: 10px;
+  border:0;
+  outline:0;
+  text-decoration: none;
+}
+
+header
+{
+  line-height: 10vh;
+  background: black;
+}
+header a
+{
+  color:white;
+}
+
+
+footer
+{
+  line-height: 10vh;
+  background: black;
+  color:white;
+  text-align: center;
+}
+
+main
+{
+  height: 80vh;
+  overflow: auto;
+  display: flex;
+}
+
+
+
+
+
+.right
+{
+  width: 80%;
+}
+
+.filters
+{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+
+
